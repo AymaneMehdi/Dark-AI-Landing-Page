@@ -131,25 +131,19 @@ Builds the project for production and starts the production server.
 
 ## Deployment
 
-The easiest way to deploy this project is with **Vercel**.
+The easiest way to deploy your app is using [Vercel Platform](https://vercel.com) from the creators of Next.js.
 
-Simply connect your GitHub repository to Vercel and deploy in just a few clicks.
-
-For more information, refer to the official Next.js deployment documentation:
-
-https://nextjs.org/docs/deployment
+Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ---
 
 ## Security
 
-Please review the project's **SECURITY.md** file for information about reporting security vulnerabilities.
-
----
+Please review our [Security Policy](SECURITY.md) for information about reporting vulnerabilities.
 
 ## License
 
-This project is licensed under the **MIT License**. See the **LICENSE** file for more information.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
